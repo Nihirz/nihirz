@@ -1,11 +1,11 @@
-[![MasterHead](https://www.webspreadtech.com/images/laravel-banner.jpg)](https://nihirzala.ml)
+[![MasterHead](https://www.webspreadtech.com/images/laravel-banner.jpg)](https://nihirz.netlify.app/)
 <h1 align="center">Hi 👋, I'm Nihir Zala</h1>
 <h3 align="center">A passionate Laravel developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Advanced Laravel**
 
-- 👨‍💻 All of my projects are available at [nihirzala.ml](nihirzala.ml)
+- 👨‍💻 All of my projects are available at [nihirz.netlify.app](https://nihirz.netlify.app/)
 
 - 💬 Ask me about **PHP, Laravel**
 
